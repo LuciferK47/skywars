@@ -1,0 +1,17 @@
+{
+  "masterRow": 1,
+  "masterCol": 2,
+  "masterMode": "DEFENSIVE",
+  "enemies": [
+    {
+      "type": "BattleCruiser",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "type": "BattleShooter",
+      "row": 2,
+      "col": 2
+    }
+  ]
+}

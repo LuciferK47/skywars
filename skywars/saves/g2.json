@@ -1,0 +1,27 @@
+{
+  "masterRow": 3,
+  "masterCol": 0,
+  "masterMode": "DEFENSIVE",
+  "enemies": [
+    {
+      "type": "BattleCruiser",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "type": "BattleStar",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "type": "BattleStar",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "type": "BattleCruiser",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}
